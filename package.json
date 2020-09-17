@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mysql/xdevapi": "^8.0.21"
+    "@mysql/xdevapi": "^8.0.21" 
   }
 }
